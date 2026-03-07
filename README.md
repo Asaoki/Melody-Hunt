@@ -13,7 +13,8 @@ MELODYHUNTMELODYHUNTMELODYHUNTMELODYHUNTMELODYHUNTMELODYHUNTMELODYHUNTMELODYHUNT
 Установка зависимостей:
 pip install -r requirements.txt
 
-Основной язык программирования - Python 
+Основной язык программирования - Python
+
 Использованные бибилотеки - Pygame, OpenCV-python, NumPy, sqlite3
 
 Приложение разработано в рамках курсовой работы
