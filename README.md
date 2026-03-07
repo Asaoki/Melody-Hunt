@@ -2,19 +2,20 @@
 
 ![Melody](https://raw.githubusercontent.com/Asaoki/Melody-Hunt/ghpages/melody.png)
 
-Простая игра на угадывание песен
+Небольшая оконная Python игра на угадывание мелодий. 
 
-3 уровня сложности - Легкий, Средний, Тяжелый
+Игроку предстоит пройти три основных уровня сложности - Легкий, Средний и Тяжелый.
 
-Локальная БД и таблица лидеров
+Итоги прохождения записываются в локальную таблицу лидеров 
 
-![leavenoone](https://raw.githubusercontent.com/Asaoki/Melody-Hunt/ghpages/leavenoone.png)
+MELODYHUNTMELODYHUNTMELODYHUNTMELODYHUNTMELODYHUNTMELODYHUNTMELODYHUNTMELODYHUNT
 
 Установка зависимостей:
 pip install -r requirements.txt
 
-Python, Pygame, OpenCV-python, NumPy, sqlite3
+Основной язык программирования - Python 
+Использованные бибилотеки - Pygame, OpenCV-python, NumPy, sqlite3
 
 Приложение разработано в рамках курсовой работы
 
-![backstatic](https://raw.githubusercontent.com/Asaoki/Melody-Hunt/ghpages/BackStatic.png)
+![leavenoone](https://raw.githubusercontent.com/Asaoki/Melody-Hunt/ghpages/leavenoone.png)
