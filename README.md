@@ -24,4 +24,3 @@ pip install -r requirements.txt
 Приложение разработано в рамках курсовой работы
 <br><br>
 <br><br>
-![leavenoone](https://raw.githubusercontent.com/Asaoki/Melody-Hunt/ghpages/leavenoone.png)
